@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 1A753479 1550838644 +0000\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_zuk_msm8996-common\nnonce 1550838644-C07F3B04804D56790E00014712BDF54D8BAF6845\n\n0000000000000000000000000000000000000000 f9e068f316a2f0bafcd67b1e9e43c16a31003f6e refs/for/cr-7.0\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJcb+t0AAoJEGmTLpgadTR5Y3sH/RtoccP2UgcOlUAPBjAyf7+z\n82CJ++/lleC94aE3vMpmr+QONrc5yN9sTSP8Ri0nPqVxfzno2gLfPV1uFIXp29xt\n5GPFkRHT5uL5HxFKQ7huCd0SsA9Uu1LChuYoUdIJ7Hr/MaQtkZ3QFO7A0cA4bD+t\naCLl+j40j0SgMMivO2xZtGGHI2IuAutK4U12aS7319QkSNZKQrGBectBumZLBj0+\nk3y4M2QlzIwrKtdoiEEjxwf9vHx4goyEBkMkXgTYY0Wd1qWKDj4IMIuVtIhu+tjn\nIt4qv+XVj0i/SDbCFox3+2CkPsyp1YT5CfyEI8lFM3lzzRtoNFTIOwZkNc77CxY\u003d\n\u003dvqdB\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
